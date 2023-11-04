@@ -8,7 +8,7 @@ I'm just your everyday cybersecurity student on a journey to explore the digital
 
 - 🎓 **Learning Enthusiast**: Currently, I'm a student diving deep into the realm of cybersecurity and networking. Mike Meyers, the guru of A+ and Security+, is my guide on this thrilling quest.
 
-- 📜 **Certification Hunter**: My goal is to bag certifications like the Google Cybersecurity Certificate, PNPT, PJPT, and, eventually, the coveted OSCP. 📚
+- 📜 **Certification Hunter**: My goal is to bag certifications like the Google Cybersecurity Certificate, PNPT, PJPT, and eventually the coveted OSCP. 📚
 
 - 🚀 **Side Projects & Collaborations**: With a friend by my side, we work on side projects that we're passionate about. We love sharing our adventures here and on Twitter.
 
