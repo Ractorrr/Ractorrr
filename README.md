@@ -22,7 +22,7 @@ I'm just your everyday cybersecurity student on a journey to explore the digital
 
 ## Connect With Me
 
-- 🐦 **Twitter**: [@Ractorrr](https://twitter.com/Ractorrrrr) - Join me in the digital realm, where we discuss tech, security, and everything in between.
+- 🐦 **Twitter**: [@Ractorrrrr](https://twitter.com/Ractorrrrr) - Join me in the digital realm, where we discuss tech, security, and everything in between.
 
 - 💬 **GitHub Discussions**: I'm all ears for your thoughts and questions. Let's have some wholesome tech talks!
 
