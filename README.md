@@ -6,7 +6,7 @@ I'm just your everyday cybersecurity student on a journey to explore the digital
 
 ## About Me
 
-- 🎓 **Learning Enthusiast**: Currently, I'm a student diving deep into the realm of cybersecurity and networking. Mike Meyers, the guru of A+ and Security+, is my guide on this thrilling quest.
+- 🎓 **Learning Enthusiast**: Currently, I'm a student diving deep into the realm of cybersecurity and networking. Mike Meyers, the guru of A+, Network+ and Security+, is my guide on this thrilling quest.
 
 - 📜 **Certification Hunter**: My goal is to bag certifications like the Google Cybersecurity Certificate, PNPT, PJPT, and eventually the coveted OSCP. 📚
 
