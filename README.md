@@ -26,6 +26,6 @@ I'm just your everyday cybersecurity student on a journey to explore the digital
 
 - 💬 **GitHub Discussions**: I'm all ears for your thoughts and questions. Let's have some wholesome tech talks!
 
-- ✉️ **Email**: You can also reach out to me via email at [your.email@example.com](mailto:ractorrr@proton.me). I'm always excited to connect with fellow tech enthusiasts.
+- ✉️ **Email**: You can also reach out to me via email at [ractorrr@proton.me](mailto:ractorrr@proton.me). I'm always excited to connect with fellow tech enthusiasts.
 
 Let's embark on this tech journey together, share knowledge, and have fun along the way. 🚀
