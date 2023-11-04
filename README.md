@@ -1,6 +1,6 @@
 
 
-# Hey there, I'm Ractorrr 👋
+# Hey there, I'm Ractor 👋
 
 I'm just your everyday cybersecurity student on a journey to explore the digital universe, one byte at a time. 🌐
 
